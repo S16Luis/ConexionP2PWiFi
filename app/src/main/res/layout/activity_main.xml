@@ -24,6 +24,7 @@
         android:layout_alignBaseline="@+id/onOff"
         android:layout_alignBottom="@+id/onOff"
         android:layout_centerHorizontal="true"
+        android:onClick="DescubrirDispositivos"
         android:text="discover" />
 
     <ListView
